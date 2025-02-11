@@ -4,3 +4,6 @@
 
 a tool for lets party infinite on roblox or lpi 
 
+```lua
+ loadstring(game:HttpGet(''))()
+```
