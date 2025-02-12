@@ -5,5 +5,5 @@
 a tool for lets party infinite on roblox or lpi 
 
 ```lua
- loadstring(game:HttpGet(''))()
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/Bobrocks12330/LPISHITTER/refs/heads/main/Script.lua"))()
 ```
